@@ -375,7 +375,6 @@ figure {
   font-weight: 700;
   float: left;
   text-align: left;
-  margin-left: -220px;
 }
 #fh5co-logo span {
   font-weight: 700;
@@ -400,7 +399,6 @@ figure {
   display: block;
   float: right;
   margin-top: 15px;
-  margin-right: -220px;
 }
 #fh5co-menu-wrap .sf-menu a {
   padding: 1em .75em;
